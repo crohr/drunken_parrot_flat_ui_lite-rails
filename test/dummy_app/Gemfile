@@ -45,5 +45,5 @@ end
 
 gem 'therubyracer'
 gem 'less-rails-bootstrap'
-gem 'drunken_parrot_flat_ui_lite-rails', :path => '/Users/Tim/Workspace/Projects/CommandRun/drunken_parrot_flat_ui_lite-rails'
+gem 'drunken_parrot_flat_ui_lite-rails'
 gem 'high_voltage', '~> 2.2.1'
