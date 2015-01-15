@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DummyApp</title>
+  <%= stylesheet_link_tag    'documentation', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'documentation', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body data-spy="scroll" data-target="#sidenav" data-offset="100">
+
+<%= yield %>
+    <script>window.prettyPrint && prettyPrint();</script>
+    <script type="text/javascript">
+        (function($) {
+            // Switch
+            $("[data-toggle='switch']").bootstrapSwitch();
+            $('#top-toolbar').toolbar({
+                content: '#user-toolbar-options',
+                position: 'top'
+            });
+
+            $('#vertical-top-toolbar').toolbar({
+                content: '#user-toolbar-options',
+                position: 'vertical-top'
+            });
+
+            $('#vertical-bottom-toolbar').toolbar({
+                content: '#user-toolbar-options',
+                position: 'vertical-bottom'
+            });
+        })(jQuery);
+    </script>
+</body>
+</html>
