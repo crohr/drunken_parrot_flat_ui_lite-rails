@@ -4,8 +4,6 @@
 
 Drunken Parrot UI Kit - A retina-ready flat UI kit which includes a PSD, a Bootstrap-based responsive HTML, a beautiful icon font, and more!
 
-This UI Kit is created by Riki Tanone & Paul Kinzett. You can purchase the pro version from https://hoarrd.com
-
 This gem integrates Drunken Parrot UI Kit Lite into Rails 3 and 4 Asset Pipeline.
 
 ## Installation
@@ -65,3 +63,7 @@ Include plugins individually.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+## Credit
+
+Drunken Parrot UI Kits is created by Riki Tanone & Paul Kinzett. You can purchase the premium version from https://hoarrd.com
