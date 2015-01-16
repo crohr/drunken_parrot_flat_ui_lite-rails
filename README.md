@@ -1,8 +1,10 @@
 # drunken_parrot_flat_ui_lite-rails
 
-![Drunken Parrot Free](https://hoarrd.com/wp-content/uploads/2014/09/drunken-parrot-free-top-2x.png)
+[![Drunken Parrot Free](https://hoarrd.com/wp-content/uploads/2014/09/drunken-parrot-free-top-2x.png)](https://hoarrd.com/free-flat-ui-drunken-parrot-lite/)
 
 Drunken Parrot UI Kit - A retina-ready flat UI kit which includes a PSD, a Bootstrap-based responsive HTML, a beautiful icon font, and more!
+
+This UI Kit is created by Riki Tanone & Paul Kinzett. You can purchase the pro version from https://hoarrd.com
 
 This gem integrates Drunken Parrot UI Kit Lite into Rails 3 and 4 Asset Pipeline.
 
