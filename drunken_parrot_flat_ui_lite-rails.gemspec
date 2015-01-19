@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = DrunkenParrotFlatUiLite::Rails::VERSION
   spec.authors       = ["Tim"]
   spec.email         = ["timshingyu@gmail.com"]
-  spec.summary       = "Drunken Parrot Flat UI Lite For Rails 3.1 Asset Pipeline"
-  spec.description   = "This gem provides Drunken Parrot Flat UI Lite for your Rails 3.1+ application."
+  spec.summary       = %q{Drunken Parrot Flat UI Lite For Rails 3.1 Asset Pipeline.}
+  spec.description   = %q{This gem provides Drunken Parrot Flat UI Lite for your Rails 3.1+ application.}
   spec.homepage      = "https://github.com/timshingyu/drunken_parrot_flat_ui_lite-rails"
   spec.license       = "MIT"
 
