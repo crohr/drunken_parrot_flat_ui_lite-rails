@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["timshingyu@gmail.com"]
   spec.summary       = %q{Drunken Parrot Flat UI Lite For Rails 3.1 Asset Pipeline.}
   spec.description   = %q{This gem provides Drunken Parrot Flat UI Lite for your Rails 3.1+ application.}
-  spec.homepage      = "-_lite-rails"
+  spec.homepage      = "https://github.com/timshingyu/drunken_parrot_flat_ui_lite-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
